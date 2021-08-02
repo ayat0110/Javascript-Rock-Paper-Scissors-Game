@@ -2,7 +2,6 @@
 # 🚀Hello Devs
 Rock paper scissor game created with vanilla javascript, 
 
-
 by creating small functions to abstract the code based on what it does.
 
 
